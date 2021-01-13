@@ -5,7 +5,7 @@ body{
     background-image: url("https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg") ;
     background-size:cover;
 }
-#indeximg {
+.img-fluid {
     width: 400px; 
     height: 400px;
     margin: 1%;
