@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    /* Background image for all of the screens, chose to fill the page with it */
+    background-image: url("https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg") ;
+    background-size:cover;
+}
+#indeximg {
+    width: 400px; 
+    height: 400px;
+    margin: 1%;
+    padding: 1%;
+}
+.about-me-text{
+    font-size: large;
+    font-weight:300;
+    margin: 2%;
+    padding: 2%;
+}
