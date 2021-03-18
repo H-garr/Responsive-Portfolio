@@ -15,6 +15,26 @@ Focused on website more than the content focusing on me
 ![alt text](https://gyazo.com/352fabd997be94a75563dbcc282f2d29/to/img.png)
 <!-- contact -->
 
-<!-- not exactly sure what else to include in a readme, 
-I struggled with formatting, got help from the tutor
-the pictures are a little distorted in the screenshots, works well in code though. -->
+
+# Create A Profile for your team!
+
+## My Portfolio
+Here is a HTML/CSS portfolio filled with some of the few projects ive completed.
+
+## Github repo and deployement link:
+GitHub Repo:
+<a href="https://github.com/H-garr/team-profile-generator/">github.com/H-garr/team-profile-generator</a>
+<a href="https://h-garr.github.io/team-profile-generator/">Deployment Link</a>
+
+## Questions and Concerns:
+
+Contact me at :
+<a href="https://hagarrard@gmail.com">hagarrard@gmail.com</a>
+
+## Walkthrough Video & Picture: 
+
+![Pic of HTML](./02-Assets/pic-of-html.png)
+<a href="https://drive.google.com/file/d/1JdUAnVyhyIqpnlBd1n7YNNJTKjD7KGGi/view">Video Here</a>
+
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
